@@ -20,4 +20,4 @@ The Milk Peptide Detector is a machine learning-based classifier developed to id
 The Milk Peptide Detector has transformed the identification process of AMPs in human milk, providing a reliable and efficient tool for researchers. By implementing this classifier, we have:
 - Achieved a significant improvement in prediction accuracy.
 - Reduced the labor and time involved in peptide identification. Enhanced overall research productivity.
-- Saved $200,000 in annual research costs by filtering peptide candidates and enhancing lab efficiency and productivity.
+- Saved $200,000 in annual research costs by filtering peptide candidates.
