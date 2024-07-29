@@ -1,5 +1,5 @@
 ## Project Overview
-The Milk Peptide Detector is a machine learning-based classifier developed to identify antimicrobial peptides (AMPs) in human milk. This project aims to significantly reduce the time and labor required for researchers to identify promising peptide candidates.
+In this project, I built a Milk Peptide Detector, which is a machine learning-based classifier developed to identify antimicrobial peptides (AMPs) in human milk. This project aims to significantly reduce the time and labor required for researchers to identify promising peptide candidates.
 
 ### Major Components of the Project
 - **Classification of Antimicrobial Peptides**: Developed a classifier to identify AMPs, streamlining the research process.
